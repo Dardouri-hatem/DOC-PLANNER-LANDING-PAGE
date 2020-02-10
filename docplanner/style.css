@@ -166,7 +166,7 @@ fill:#00b39b ;
     font-size: 1.8em;
     margin: .25em 0 .35em;
     padding-right: 1em;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 .header-div p{
     color:#ababab ;
